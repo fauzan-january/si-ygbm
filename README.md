@@ -1,4 +1,4 @@
-### si-ygbm
+### sistem informasi yayasan
 Sistem informasi berbasis web yang saya buat dalam rangka memenuhi tugas proyek uas pada semester 5 di kampus saya.
 ### fitur administrator
 - crud pengguna
@@ -13,4 +13,6 @@ saat ini hanya sekedar mengedit profil dan membaca data yang ada, kedepannya aka
 ### informasi pengguna administrator
 - nama pengguna: admin
 - kata sandi: admin
+
+### kedepannya sistem ini bakal saya kembangkan lagi
 ### semoga bermanfaat!
